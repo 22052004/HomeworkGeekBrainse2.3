@@ -1,5 +1,6 @@
 package lisson.gb;
 import java.util.*;
+
 public class MainClass {
     public static void main(String[] args) {
         String[] fruit = {"apple", "orange", "melon", "apple", "kiwi", "kiwi", "banana", "kiwi", "pear", "mango", "papaya"};
